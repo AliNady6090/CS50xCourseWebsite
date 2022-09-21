@@ -1,0 +1,31 @@
+h1{
+  text-align:left ; text-decoration: underline; font-size: 30px; color: #000000;
+}
+h2{
+text-align: right; text-decoration: underline; font-size: 30px; color: #000000;
+}
+h3{
+  text-align: center; text-decoration: underline; font-size: 50px; color: #000000;
+  }
+h4{
+  text-align: left; text-decoration: underline; font-size: 30px; color: #000000;
+  }
+h5{
+  text-align: left; text-decoration: underline; font-size: 30px; color: #000000;
+  }
+h6{
+  text-align: left; text-decoration: underline; font-size: 30px; color: #000000;
+  }
+h7{
+  text-align: left; text-decoration: underline; font-size: 30px; color: #000000;
+  }
+h8{
+text-align: center; text-decoration: underline; font-size: 30px;
+}
+
+body{
+  background-image: url("https://media.gettyimages.com/photos/alazhar-mosque-in-cairo-picture-id536065418?k=20&m=536065418&s=612x612&w=0&h=iV533oTM5vXwijhn8zlwRVliKviGOXSslSD_1nda_Vg=");
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
